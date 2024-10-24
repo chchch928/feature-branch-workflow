@@ -1,6 +1,10 @@
 body{
     background: gray;
+    font-size: 20px;
+    font-family: cursive;
 }
 h1{
     color: blueviolet;
-    background: red;}
+    background: red;
+    border-bottom: 3px solid blue;
+}
